@@ -17,3 +17,5 @@
 # /.fleet
 # /.idea
 # /.vscode
+*.zip
+*.psd
