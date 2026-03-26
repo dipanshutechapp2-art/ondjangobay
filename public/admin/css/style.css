@@ -1,0 +1,41 @@
+.admin-dashboard-sidebar {
+    height: 100vh !important;
+    position: fixed !important;
+    background-color: #f8f8f8;
+    transition: 0.5s;
+}
+.admin-dashboard-top {
+    padding-left: 250px;
+    position: fixed;
+    width: 100%;
+    z-index: 5;
+    top: 0;
+    box-shadow: 0px 0px 5px #00000024;
+    margin-left: 0px !important;
+}
+.admin-dashboard-content {
+    margin-top: 55px;
+}
+.admin-dashboard-top {
+    transition: .3s ease-in-out !important;
+}
+.nav-toggle{
+    padding-left: 0;
+    
+}
+.sidebar-toggle{
+    margin-left: -300px;
+    
+}
+.content-toggle{
+    margin-left: 0 !important;
+}
+.add-user {
+    float: right;
+}
+
+.card-header.order-details {
+    margin: 25px 0 !important;
+    padding-left: 0;
+}
+
